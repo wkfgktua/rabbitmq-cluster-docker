@@ -1,0 +1,6 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost6 localhost6.localdomain6
+
+10.118.245.43 rabbit1
+10.118.245.47 rabbit2
+10.118.245.57 rabbit3
